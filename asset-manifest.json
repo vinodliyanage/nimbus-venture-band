@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nimbus-venture-band/static/css/main.c7b65e75.css",
+    "main.js": "/nimbus-venture-band/static/js/main.2ecc67f0.js",
+    "static/js/787.66d831bf.chunk.js": "/nimbus-venture-band/static/js/787.66d831bf.chunk.js",
+    "static/media/v3.mp4": "/nimbus-venture-band/static/media/v3.bd3d9198f6644b779676.mp4",
+    "static/media/gps.png": "/nimbus-venture-band/static/media/gps.dfdee24f7c968c7300ad.png",
+    "static/media/bicycle-rider-bgremoved2.gif": "/nimbus-venture-band/static/media/bicycle-rider-bgremoved2.184a63eba7f42998d455.gif",
+    "static/media/featListImage.png": "/nimbus-venture-band/static/media/featListImage.c255f8f09c1ffcfefd0c.png",
+    "static/media/section04.png": "/nimbus-venture-band/static/media/section04.545916be7307cea0163c.png",
+    "static/media/logo.png": "/nimbus-venture-band/static/media/logo.a6603299333eb710b3c5.png",
+    "static/media/dog.svg": "/nimbus-venture-band/static/media/dog.f1e0b6d05956e783a965bd1e0b59d04f.svg",
+    "index.html": "/nimbus-venture-band/index.html",
+    "main.c7b65e75.css.map": "/nimbus-venture-band/static/css/main.c7b65e75.css.map",
+    "main.2ecc67f0.js.map": "/nimbus-venture-band/static/js/main.2ecc67f0.js.map",
+    "787.66d831bf.chunk.js.map": "/nimbus-venture-band/static/js/787.66d831bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b65e75.css",
+    "static/js/main.2ecc67f0.js"
+  ]
+}
